@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/VeryGoodOpenSource/very_good_cli/compare/v1.4.0...v1.4.1) (2026-08-11)
+
+
+### Docs
+
+* clarify --min-coverage and configuration ([#1685](https://github.com/VeryGoodOpenSource/very_good_cli/issues/1685)) ([b5c2457](https://github.com/VeryGoodOpenSource/very_good_cli/commit/b5c2457ffeb618a3cefb3880b86d0a48377196e6))
+
 ## [1.4.0](https://github.com/VeryGoodOpenSource/very_good_cli/compare/v1.3.0...v1.4.0) (2026-08-10)
 
 
